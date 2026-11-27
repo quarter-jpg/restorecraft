@@ -1,0 +1,1433 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Mycelium - Sweep 1 Block",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "",
+      "place_item": [
+        "Emerald Bundle!"
+      ]
+    },
+    {
+      "name": "Mycelium - Sweep 5 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "",
+      "place_item": [
+        "Emerald Bundle!"
+      ]
+    },
+    {
+      "name": "Mycelium - Sweep 10 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Mycelium - Sweep 15 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Mycelium - Sweep 20 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:1|"
+    },
+    {
+      "name": "Mycelium - Sweep 25 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:1|"
+    },
+    {
+      "name": "Mycelium - Sweep 30 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:1|"
+    },
+    {
+      "name": "Mycelium - Sweep 35 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:1|"
+    },
+    {
+      "name": "Mycelium - Sweep 40 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:1|"
+    },
+    {
+      "name": "Mycelium - Sweep 45 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:1|"
+    },
+    {
+      "name": "Mycelium - Sweep 50 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:1|"
+    },
+    {
+      "name": "Mycelium - Sweep 75 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:1|"
+    },
+    {
+      "name": "Mycelium - Sweep 100 Blocks",
+      "category": [
+        "Block Sweeping",
+        "Milestones"
+      ],
+      "requires": "|Progressive World Border Growth:1|"
+    },
+    {
+      "name": "Mycelium - Sweep 125 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:1|"
+    },
+    {
+      "name": "Mycelium - Sweep 150 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:1|"
+    },
+    {
+      "name": "Mycelium - Sweep 175 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:1|"
+    },
+    {
+      "name": "Mycelium - Sweep 200 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:1|"
+    },
+    {
+      "name": "Mycelium - Sweep 250 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 300 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 350 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 400 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 450 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 500 Blocks",
+      "category": [
+        "Block Sweeping",
+        "Milestones"
+      ],
+      "requires": "|Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 550 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 600 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Progressive Brush Area Clearing:1|"
+    },
+    {
+      "name": "Mycelium - Sweep 700 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Progressive Brush Area Clearing:1|"
+    },
+    {
+      "name": "Mycelium - Sweep 800 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Progressive Brush Area Clearing:1|"
+    },
+    {
+      "name": "Mycelium - Sweep 900 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Progressive Brush Area Clearing:1|"
+    },
+    {
+      "name": "Mycelium - Sweep 1000 Blocks",
+      "category": [
+        "Block Sweeping",
+        "Milestones"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 1100 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 1200 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:4| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Cropsanity - Wheat x1",
+      "category": [
+        "Cropsanity"
+      ],
+      "requires": "|Shop Area Unlock - Seeds| AND |Progressive World Border Growth:3|"
+    },
+    {
+      "name": "Cropsanity - Wheat x32",
+      "category": [
+        "Cropsanity"
+      ],
+      "requires": "|Shop Area Unlock - Seeds| AND |Progressive World Border Growth:3|"
+    },
+    {
+      "name": "Cropsanity - Wheat x64",
+      "category": [
+        "Cropsanity"
+      ],
+      "requires": "|Shop Area Unlock - Seeds| AND |Progressive World Border Growth:3|"
+    },
+    {
+      "name": "Cropsanity - Beetroot x1",
+      "category": [
+        "Cropsanity"
+      ],
+      "requires": "|Shop Area Unlock - Seeds| AND |Progressive World Border Growth:3|"
+    },
+    {
+      "name": "Cropsanity - Beetroot x32",
+      "category": [
+        "Cropsanity"
+      ],
+      "requires": "|Shop Area Unlock - Seeds| AND |Progressive World Border Growth:3|"
+    },
+    {
+      "name": "Cropsanity - Beetroot x64",
+      "category": [
+        "Cropsanity"
+      ],
+      "requires": "|Shop Area Unlock - Seeds| AND |Progressive World Border Growth:3|"
+    },
+    {
+      "name": "Cropsanity - Melon x1",
+      "category": [
+        "Cropsanity"
+      ],
+      "requires": "|Shop Area Unlock - Seeds| AND |Progressive World Border Growth:3|"
+    },
+    {
+      "name": "Cropsanity - Melon x64",
+      "category": [
+        "Cropsanity"
+      ],
+      "requires": "|Shop Area Unlock - Seeds| AND |Progressive World Border Growth:3|"
+    },
+    {
+      "name": "Cropsanity - Melon x128",
+      "category": [
+        "Cropsanity"
+      ],
+      "requires": "|Shop Area Unlock - Seeds| AND |Progressive World Border Growth:3|"
+    },
+    {
+      "name": "Cropsanity - Pumpkin x1",
+      "category": [
+        "Cropsanity"
+      ],
+      "requires": "|Shop Area Unlock - Seeds| AND |Progressive World Border Growth:3|"
+    },
+    {
+      "name": "Cropsanity - Pumpkin x32",
+      "category": [
+        "Cropsanity"
+      ],
+      "requires": "|Shop Area Unlock - Seeds| AND |Progressive World Border Growth:3|"
+    },
+    {
+      "name": "Cropsanity - Pumpkin x64",
+      "category": [
+        "Cropsanity"
+      ],
+      "requires": "|Shop Area Unlock - Seeds| AND |Progressive World Border Growth:3|"
+    },
+    {
+      "name": "Cropsanity - Carrot x1",
+      "category": [
+        "Cropsanity"
+      ],
+      "requires": "|Shop Area Unlock - Seeds| AND |Progressive World Border Growth:3|"
+    },
+    {
+      "name": "Cropsanity - Carrot x64",
+      "category": [
+        "Cropsanity"
+      ],
+      "requires": "|Shop Area Unlock - Seeds| AND |Progressive World Border Growth:3|"
+    },
+    {
+      "name": "Cropsanity - Carrot x128",
+      "category": [
+        "Cropsanity"
+      ],
+      "requires": "|Shop Area Unlock - Seeds| AND |Progressive World Border Growth:3|"
+    },
+    {
+      "name": "Cropsanity - Potato x1",
+      "category": [
+        "Cropsanity"
+      ],
+      "requires": "|Shop Area Unlock - Seeds| AND |Progressive World Border Growth:3|"
+    },
+    {
+      "name": "Cropsanity - Potato x64",
+      "category": [
+        "Cropsanity"
+      ],
+      "requires": "|Shop Area Unlock - Seeds| AND |Progressive World Border Growth:3|"
+    },
+    {
+      "name": "Cropsanity - Potato x128",
+      "category": [
+        "Cropsanity"
+      ],
+      "requires": "|Shop Area Unlock - Seeds| AND |Progressive World Border Growth:3|"
+    },
+    {
+      "name": "Barnsanity - Pig x1",
+      "category": [
+        "Barnsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Barnsanity - Pig x4",
+      "category": [
+        "Barnsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Barnsanity - Pig x8",
+      "category": [
+        "Barnsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Barnsanity - Cow x1",
+      "category": [
+        "Barnsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Barnsanity - Cow x4",
+      "category": [
+        "Barnsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Barnsanity - Cow x8",
+      "category": [
+        "Barnsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Barnsanity - Sheep x1",
+      "category": [
+        "Barnsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Barnsanity - Sheep x4",
+      "category": [
+        "Barnsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Barnsanity - Sheep x8",
+      "category": [
+        "Barnsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Fishsanity - Raw Cod",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Fishsanity - Raw Salmon",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Fishsanity - Pufferfish",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Fishsanity - Tropical Fish",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Fishsanity - Bow",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Fishsanity - Any Book",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Fishsanity - Name Tag",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Fishsanity - Nautilus Shell",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Fishsanity - Saddle",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Fishsanity - Lily Pad",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Fishsanity - Bone (Bad to the)",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Fishsanity - Bowl",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Fishsanity - Leather",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Fishsanity - Leather Boots",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Fishsanity - Rotten Flesh",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Fishsanity - Tripwire Hook",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Fishsanity - Water Bottle",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Fishsanity - Stick",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Fishsanity - String",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Fishsanity - Ink Sac",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Shop Area Unlock - Farming| AND |Progressive World Border Growth:2|"
+    },
+    {
+      "name": "Complete All Goal Requirements",
+      "victory": true,
+      "category": [
+        "Victory"
+      ],
+      "requires": "|@Goal Progress:2|"
+    },
+    {
+      "name": "Fletcher - Apprentice",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:1| AND |Villager Trading|"
+    },
+    {
+      "name": "Fletcher - Journeyman",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:1| AND |Villager Trading|"
+    },
+    {
+      "name": "Fletcher - Expert",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:1| AND |Villager Trading|"
+    },
+    {
+      "name": "Fletcher - Master",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:1| AND |Villager Trading|"
+    },
+    {
+      "name": "Fletcher - First Trade",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:1| AND |Villager Trading|"
+    },
+    {
+      "name": "Armorer - First Trade",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:1| AND |Villager Trading|"
+    },
+    {
+      "name": "Armorer - Apprentice",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:1| AND |Villager Trading|"
+    },
+    {
+      "name": "Armorer - Journeyman",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:1| AND |Villager Trading|"
+    },
+    {
+      "name": "Armorer - Expert",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:1| AND |Villager Trading|"
+    },
+    {
+      "name": "Armorer - Master",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:1| AND |Villager Trading|"
+    },
+    {
+      "name": "Butcher - First Trade",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:1| AND |Villager Trading|"
+    },
+    {
+      "name": "Butcher - Apprentice",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:1| AND |Villager Trading|"
+    },
+    {
+      "name": "Butcher - Journeyman",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:1| AND |Villager Trading|"
+    },
+    {
+      "name": "Butcher - Expert",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:1| AND |Villager Trading|"
+    },
+    {
+      "name": "Butcher - Master",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:1| AND |Villager Trading|"
+    },
+    {
+      "name": "Leatherworker - First Trade",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:1| AND |Villager Trading|"
+    },
+    {
+      "name": "Leatherworker - Apprentice",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:1| AND |Villager Trading|"
+    },
+    {
+      "name": "Leatherworker - Journeyman",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:1| AND |Villager Trading|"
+    },
+    {
+      "name": "Leatherworker - Expert",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:1| AND |Villager Trading|"
+    },
+    {
+      "name": "Leatherworker - Master",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:1| AND |Villager Trading|"
+    },
+    {
+      "name": "Cartographer - First Trade",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:2| AND |Villager Trading|"
+    },
+    {
+      "name": "Cartographer - Apprentice",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:2| AND |Villager Trading|"
+    },
+    {
+      "name": "Cartographer - Journeyman",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:2| AND |Villager Trading|"
+    },
+    {
+      "name": "Cartographer - Expert",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:2| AND |Villager Trading|"
+    },
+    {
+      "name": "Cartographer - Master",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:2| AND |Villager Trading|"
+    },
+    {
+      "name": "Librarian - First Trade",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:2| AND |Villager Trading|"
+    },
+    {
+      "name": "Librarian - Apprentice",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:2| AND |Villager Trading|"
+    },
+    {
+      "name": "Librarian - Journeyman",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:2| AND |Villager Trading|"
+    },
+    {
+      "name": "Librarian - Expert",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:2| AND |Villager Trading|"
+    },
+    {
+      "name": "Librarian - Master",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:2| AND |Villager Trading|"
+    },
+    {
+      "name": "Cleric - First Trade",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Villager Trading|"
+    },
+    {
+      "name": "Cleric - Apprentice",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Villager Trading|"
+    },
+    {
+      "name": "Cleric - Journeyman",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Villager Trading|"
+    },
+    {
+      "name": "Cleric - Expert",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Villager Trading|"
+    },
+    {
+      "name": "Cleric - Master",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Villager Trading|"
+    },
+    {
+      "name": "Mason - First Trade",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Villager Trading|"
+    },
+    {
+      "name": "Mason - Apprentice",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Villager Trading|"
+    },
+    {
+      "name": "Mason - Journeyman",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Villager Trading|"
+    },
+    {
+      "name": "Mason - Expert",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Villager Trading|"
+    },
+    {
+      "name": "Mason - Master",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Villager Trading|"
+    },
+    {
+      "name": "Shepherd - First Trade",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Villager Trading|"
+    },
+    {
+      "name": "Shepherd - Apprentice",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Villager Trading|"
+    },
+    {
+      "name": "Shepherd - Journeyman",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Villager Trading|"
+    },
+    {
+      "name": "Shepherd - Expert",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Villager Trading|"
+    },
+    {
+      "name": "Shepherd - Master",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Villager Trading|"
+    },
+    {
+      "name": "Farmer - First Trade",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Villager Trading|"
+    },
+    {
+      "name": "Farmer - Apprentice",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Villager Trading|"
+    },
+    {
+      "name": "Farmer - Journeyman",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Villager Trading|"
+    },
+    {
+      "name": "Farmer - Expert",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Villager Trading|"
+    },
+    {
+      "name": "Farmer - Master",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:3| AND |Villager Trading|"
+    },
+    {
+      "name": "Weaponsmith - First Trade",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:4| AND |Villager Trading|"
+    },
+    {
+      "name": "Weaponsmith - Apprentice",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:4| AND |Villager Trading|"
+    },
+    {
+      "name": "Weaponsmith - Journeyman",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:4| AND |Villager Trading|"
+    },
+    {
+      "name": "Weaponsmith - Expert",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:4| AND |Villager Trading|"
+    },
+    {
+      "name": "Weaponsmith - Master",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:4| AND |Villager Trading|"
+    },
+    {
+      "name": "Fisherman - First Trade",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:4| AND |Villager Trading|"
+    },
+    {
+      "name": "Fisherman - Apprentice",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:4| AND |Villager Trading|"
+    },
+    {
+      "name": "Fisherman - Journeyman",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:4| AND |Villager Trading|"
+    },
+    {
+      "name": "Fisherman - Expert",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:4| AND |Villager Trading|"
+    },
+    {
+      "name": "Fisherman - Master",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:4| AND |Villager Trading|"
+    },
+    {
+      "name": "Toolsmith - First Trade",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:5| AND |Villager Trading|"
+    },
+    {
+      "name": "Toolsmith - Apprentice",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:5| AND |Villager Trading|"
+    },
+    {
+      "name": "Toolsmith - Journeyman",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:5| AND |Villager Trading|"
+    },
+    {
+      "name": "Toolsmith - Expert",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:5| AND |Villager Trading|"
+    },
+    {
+      "name": "Toolsmith - Master",
+      "category": [
+        "Tradesanity"
+      ],
+      "requires": "|Progressive World Border Growth:5| AND |Villager Trading|"
+    },
+    {
+      "name": "Exit Slip 1",
+      "category": [
+        "Exit Slips"
+      ],
+      "requires": "|Progressive World Border Growth:5|"
+    },
+    {
+      "name": "Exit Slip 2",
+      "category": [
+        "Exit Slips"
+      ],
+      "requires": "|Progressive World Border Growth:5|"
+    },
+    {
+      "name": "Exit Slip 3",
+      "category": [
+        "Exit Slips"
+      ],
+      "requires": "|Progressive World Border Growth:3|"
+    },
+    {
+      "name": "Exit Slip 4",
+      "category": [
+        "Exit Slips"
+      ],
+      "requires": "|Progressive World Border Growth:5| AND |Villager Trading|"
+    },
+    {
+      "name": "Exit Slip 5",
+      "category": [
+        "Exit Slips"
+      ],
+      "requires": "|Progressive World Border Growth:10|"
+    },
+    {
+      "name": "Find the Original Island",
+      "category": [
+        "Misc"
+      ],
+      "requires": "|Progressive World Border Growth:10|"
+    },
+    {
+      "name": "Hold the Manual Creator's Head",
+      "category": [
+        "Misc"
+      ],
+      "requires": "|Progressive World Border Growth:10|"
+    },
+    {
+      "name": "Read the Manual Creator's Intro Book",
+      "category": [
+        "Misc"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(GOAL) Find all 5 Exit Slips",
+      "category": [
+        "Exit Slips",
+        "Victory"
+      ],
+      "requires": "|Progressive World Border Growth:10| AND |Villager Trading|",
+      "place_item": [
+        "Goal Progressions"
+      ]
+    },
+    {
+      "name": "Mycelium - Sweep 1300 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:4| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 1400 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:4| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 1500 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:4| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 1600 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:4| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 1700 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:4| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 1800 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:4| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 1900 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:4| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 2000 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:5| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 2100 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:5| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 2200 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:5| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 2300 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:5| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 2400 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:5| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "(GOAL) Mycelium - Sweep 2500 Blocks",
+      "category": [
+        "Block Sweeping",
+        "Victory",
+        "Milestones"
+      ],
+      "requires": "|Progressive World Border Growth:5| AND |Progressive Brush Area Clearing:2|",
+      "place_item": [
+        "Goal Progressions"
+      ]
+    },
+    {
+      "name": "Mycelium - Sweep 2600 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:5| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 2700 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:5| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 2800 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:6| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 2900 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:6| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 3000 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:6| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 3100 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:6| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 3200 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:6| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 3300 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:6| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 3400 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:6| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 3500 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:6| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 3600 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:6| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 3700 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:6| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 3800 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:6| AND |Progressive Brush Area Clearing:2|"
+    },
+    {
+      "name": "Mycelium - Sweep 3900 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:7| AND |Progressive Brush Area Clearing:3|"
+    },
+    {
+      "name": "Mycelium - Sweep 4000 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:7| AND |Progressive Brush Area Clearing:3|"
+    },
+    {
+      "name": "Mycelium - Sweep 4100 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:7| AND |Progressive Brush Area Clearing:3|"
+    },
+    {
+      "name": "Mycelium - Sweep 4200 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:7| AND |Progressive Brush Area Clearing:3|"
+    },
+    {
+      "name": "Mycelium - Sweep 4300 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:7| AND |Progressive Brush Area Clearing:3|"
+    },
+    {
+      "name": "Mycelium - Sweep 4400 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:7| AND |Progressive Brush Area Clearing:3|"
+    },
+    {
+      "name": "Mycelium - Sweep 4500 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:7| AND |Progressive Brush Area Clearing:3|"
+    },
+    {
+      "name": "Mycelium - Sweep 4600 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:7| AND |Progressive Brush Area Clearing:3|"
+    },
+    {
+      "name": "Mycelium - Sweep 4700 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:7| AND |Progressive Brush Area Clearing:3|"
+    },
+    {
+      "name": "Mycelium - Sweep 4800 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:7| AND |Progressive Brush Area Clearing:3|"
+    },
+    {
+      "name": "Mycelium - Sweep 4900 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:7| AND |Progressive Brush Area Clearing:3|"
+    },
+    {
+      "name": "Mycelium - Sweep 5000 Blocks",
+      "category": [
+        "Block Sweeping",
+        "Milestones"
+      ],
+      "requires": "|Progressive World Border Growth:8| AND |Progressive Brush Area Clearing:3|"
+    },
+    {
+      "name": "Mycelium - Sweep 5500 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:8| AND |Progressive Brush Area Clearing:3|"
+    },
+    {
+      "name": "Mycelium - Sweep 6000 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:8| AND |Progressive Brush Area Clearing:3|"
+    },
+    {
+      "name": "Mycelium - Sweep 6500 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:8| AND |Progressive Brush Area Clearing:3|"
+    },
+    {
+      "name": "Mycelium - Sweep 7000 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:9| AND |Progressive Brush Area Clearing:3|"
+    },
+    {
+      "name": "Mycelium - Sweep 7500 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:9| AND |Progressive Brush Area Clearing:3|"
+    },
+    {
+      "name": "Mycelium - Sweep 8000 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:9| AND |Progressive Brush Area Clearing:3|"
+    },
+    {
+      "name": "Mycelium - Sweep 8500 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:9| AND |Progressive Brush Area Clearing:3|"
+    },
+    {
+      "name": "Mycelium - Sweep 9000 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:10| AND |Progressive Brush Area Clearing:3|"
+    },
+    {
+      "name": "Mycelium - Sweep 9500 Blocks",
+      "category": [
+        "Block Sweeping"
+      ],
+      "requires": "|Progressive World Border Growth:10| AND |Progressive Brush Area Clearing:3|"
+    },
+    {
+      "name": "Mycelium - Sweep 10000 Blocks",
+      "category": [
+        "Block Sweeping",
+        "Milestones"
+      ],
+      "requires": "|Progressive World Border Growth:10| AND |Progressive Brush Area Clearing:3|"
+    }
+  ]
+}

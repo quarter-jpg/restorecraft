@@ -1,0 +1,67 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": "25",
+      "name": "Progressive World Border Growth",
+      "category": [
+        "Progressions"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shop Area Unlock - Farming",
+      "category": [
+        "Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shop Area Unlock - Seeds",
+      "category": [
+        "Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shop Area Unlock - Main Area",
+      "category": [
+        "Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": "3",
+      "name": "Progressive Brush Area Clearing",
+      "category": [
+        "Brush Upgrades"
+      ],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Goal Progressions",
+      "category": [
+        "Goal Progress"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Villager Trading",
+      "category": [
+        "Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": "35",
+      "name": "Emerald Bundle!",
+      "category": [],
+      "useful": true
+    }
+  ]
+}

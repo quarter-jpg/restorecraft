@@ -1,0 +1,14 @@
+{
+	"Cropsanity":{
+		"yaml_option": ["cropsanity"]
+	},
+	"Tradesanity":{
+		"yaml_option": ["tradesanity"]
+	},
+	"Barnsanity":{
+		"yaml_option": ["barnsanity"]
+	},
+	"Fishsanity":{
+		"yaml_option": ["fishsanity"]
+	}
+}
